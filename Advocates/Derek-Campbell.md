@@ -43,3 +43,7 @@ During his time in DevOps and automation consultancy, Derek has automated CI/CD 
 - [Twitch](twitch.tv/DevOpsDerek)
 - [YouTube](Youtube.com/DevOpsDerek)
 - [Sessionize](https://sessionize.com/derek-campbell/)
+
+## Contact Details
+
+You can get Derek on Twitter or LinkedIn or on <Derek.Campbell@Octopus.com> or <Community@Octopus.com>.
