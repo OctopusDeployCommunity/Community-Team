@@ -10,7 +10,7 @@ Social Media Permissions: Allowed
 ---
 ## About Derek
 
-Derek Campbell is a Principal Solutions Architect at Octopus Deploy in the Community team. 
+Derek Campbell is the Community Director and talks as a Principal Solutions Architect at Octopus Deploy in the Community team. 
 
 Derek is passionate about helping and building Communities and has previously worked in Customer Solutions where he helped some of the largest customers of Octopus be successful. 
 
@@ -29,6 +29,7 @@ During his time in DevOps and automation consultancy, Derek has automated CI/CD 
 
 ## Personal Interests
 
+- Home Automation
 - DevOps
 - Labradors
 - Raspberry Pi's
@@ -39,3 +40,6 @@ During his time in DevOps and automation consultancy, Derek has automated CI/CD 
 - [Github](https://github.com/DevOpsDerek)
 - [Twitter](https://twitter.com/DevopsDerek)
 - [LinkedIn](https://www.linkedin.com/in/devopsderek/)
+- [Twitch](twitch.tv/DevOpsDerek)
+- [YouTube](Youtube.com/DevOpsDerek)
+- [Sessionize](https://sessionize.com/derek-campbell/)
