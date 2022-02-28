@@ -45,4 +45,4 @@ Sarah’s enthusiasm in the field of technology has given her the opportunity to
 
 ## Contact Details
 
-You can get Derek on Twitter or LinkedIn or on <Sarah.Lean@Octopus.com> or <Community@Octopus.com>.
+You can get Sarah on [Twitter](https://twitter.com/techielass) or [LinkedIn](https://www.linkedin.com/in/sazlean/) or on <Sarah.Lean@Octopus.com> or <Community@Octopus.com>.
