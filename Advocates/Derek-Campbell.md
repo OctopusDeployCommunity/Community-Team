@@ -19,7 +19,9 @@ During his time in DevOps and automation consultancy, Derek has automated CI/CD 
 ## Skills
 
 - DevOps Methodologies
+- Build Servers [Azure DevOps, Jenkins, Github Actions & TeamCity]
 - Octopus Deploy
+- Advanced Octopus Deploy usage
 - System Administration
 - PowerShell
 - Azure Certified Solutions Architect
@@ -30,6 +32,7 @@ During his time in DevOps and automation consultancy, Derek has automated CI/CD 
 - DevOps
 - Labradors
 - Raspberry Pi's
+- Community Builder
 
 ## Profiles
 
