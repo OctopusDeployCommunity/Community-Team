@@ -20,6 +20,8 @@ In his role at Octopus Deploy, Peter helps engage the public in the areas of Dev
 
 He has presented internationally on a wide variety of Topics, including the Azure IoT Stack, AI, Robotics, .NET, DevOps, Amazon Alexa, Particle Photon, Arduino etc etc.
 
+Pete's pronouns are He/Him.
+
 ## Skills
 
 - DevOps 
